@@ -22,8 +22,10 @@ function ProfileDropdown({ userData, logout }) {
   return (
     <div className="relative group" ref={ref}>
       <button className="cursor-pointer" onClick={() => setOpen((prev) => !prev)}>
-        <div className="border size-7 rounded-full border-green-400 shadow-md flex items-center justify-center">
-          <span>{userData && userData.name[0].toUpperCase()}</span>
+        <div className="border size-7 rounded-full border-green-400 shadow-md flex items-center justify-center overflow-hidden">
+          <span className="flex items-center justify-center w-full h-full text-[24px] leading-none font-medium">
+            {userData?.name?.charAt(0)?.toUpperCase() || ""}
+          </span>
         </div>
       </button>
 
