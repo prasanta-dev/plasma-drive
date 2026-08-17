@@ -53,7 +53,7 @@ function Stats() {
                                     <figure className="relative rounded-2xl bg-white dark:bg-gray-900 p-6 text-center shadow-xl shadow-slate-900/10 hover:text-slate-900 transition duration-300 ease-in">
                                         <span className='text-2xl'><MdGroups /></span>
                                         <blockquote className="relative p-3">
-                                            <p className="text-6xl font-bold tracking-tight dark:text-white">50+</p>
+                                            <p className="text-6xl font-bold tracking-tight dark:text-white">50K+</p>
                                         </blockquote>
                                         <figcaption className="text-center">
                                             <div className="font-display dark:text-white font-bold">Happy Customers</div>
