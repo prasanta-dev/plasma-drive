@@ -288,29 +288,9 @@ Building Plasma Drive provided practical experience with a complete application 
 
 ## Screenshots
 
-Recommended portfolio screenshots can be stored in:
-
-```text
-public/screenshots/
-├── 01-home.png
-├── 02-services.png
-├── 03-service-details.png
-├── 04-login.png
-├── 05-register.png
-├── 06-dashboard.png
-├── 07-cart.png
-├── 08-booking.png
-├── 09-confirmation.png
-├── 10-admin.png
-├── 11-service-management.png
-├── 12-data.png
-├── 13-mobile.png
-├── 14-appwrite.png
-├── 15-vercel.png
-└── 16-overview.png
-```
-
-Once those images are in the repository, they can be displayed here to make the project page more visual for recruiters.
+<p align="center">
+  <img src="public/screenshots/01-home.png" alt="Plasma Drive Home Page" width="800"/>
+</p>
 
 ## Future Improvements
 
